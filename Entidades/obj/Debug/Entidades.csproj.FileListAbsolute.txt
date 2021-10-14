@@ -1,0 +1,6 @@
+C:\Users\fran9\source\repos\SLNDemoCapas\SLNClinica\Entidades\bin\Debug\Entidades.dll
+C:\Users\fran9\source\repos\SLNDemoCapas\SLNClinica\Entidades\bin\Debug\Entidades.pdb
+C:\Users\fran9\source\repos\SLNDemoCapas\SLNClinica\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\fran9\source\repos\SLNDemoCapas\SLNClinica\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\fran9\source\repos\SLNDemoCapas\SLNClinica\Entidades\obj\Debug\Entidades.dll
+C:\Users\fran9\source\repos\SLNDemoCapas\SLNClinica\Entidades\obj\Debug\Entidades.pdb
